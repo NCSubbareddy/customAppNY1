@@ -6,9 +6,9 @@
         <sys_id>3db45e6a84533300964fe54b604c1708</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_testnypatch1_emptable.admin</sys_name>
-        <sys_package display_value="testnypatch1" source="x_testnypatch1">2e54d26a84533300964fe54b604c17c3</sys_package>
+        <sys_package display_value="testnypatch1updated" source="x_testnypatch1">2e54d26a84533300964fe54b604c17c3</sys_package>
         <sys_policy/>
-        <sys_scope display_value="testnypatch1">2e54d26a84533300964fe54b604c17c3</sys_scope>
+        <sys_scope display_value="testnypatch1updated">2e54d26a84533300964fe54b604c17c3</sys_scope>
         <sys_security_acl display_value="x_testnypatch1_emptable">31b45e6a84533300964fe54b604c1706</sys_security_acl>
         <sys_update_name>sys_security_acl_role_3db45e6a84533300964fe54b604c1708</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
